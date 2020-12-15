@@ -12,7 +12,7 @@ const a = prompt('last film do your watch', ''),
     c = prompt('last film do your watch', ''),
     d = prompt('what rate it?', '');
 
-persanalMovieDb[a] = b;
-persanalMovieDb[c] = d;
+persanalMovieDb.movies[a] = b;
+persanalMovieDb.movies[c] = d;
 
 console.log(persanalMovieDb);

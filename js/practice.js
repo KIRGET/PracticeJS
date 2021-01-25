@@ -45,3 +45,9 @@ for (let i = 1; i <= 9; i++) {
     tmp = tmp + 7 + ' * ' + i + ' = ' + 7 * i + '<br>';
 }
 code.innerHTML = tmp; */
+
+// function sayHello(firstName, lastName) {
+//     console.log('sayHi');
+//     console.log(firstName, lastName);
+// }
+// sayHello('Chris', 'Van Den Berg');
